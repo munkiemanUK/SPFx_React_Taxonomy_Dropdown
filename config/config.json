@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "react-taxonomy-dropdown-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/reactTaxonomyDropdown/ReactTaxonomyDropdownWebPart.js",
+          "manifest": "./src/webparts/reactTaxonomyDropdown/ReactTaxonomyDropdownWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ReactTaxonomyDropdownWebPartStrings": "lib/webparts/reactTaxonomyDropdown/loc/{locale}.js",
+    "ControlStrings": "node_modules/@pnp/spfx-controls-react/lib/loc/{locale}.js"
+  }
+}

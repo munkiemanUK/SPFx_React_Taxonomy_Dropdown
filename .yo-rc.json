@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "sp-fx-react-taxonomy-dropdown",
+    "libraryId": "aa7683d9-9389-4510-85c8-a0e332408ef6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-fx-react-taxonomy-dropdown",
+    "solutionShortDescription": "sp-fx-react-taxonomy-dropdown description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

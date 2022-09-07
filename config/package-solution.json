@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-react-taxonomy-dropdown-client-side-solution",
+    "id": "aa7683d9-9389-4510-85c8-a0e332408ef6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-fx-react-taxonomy-dropdown description"
+      },
+      "longDescription": {
+        "default": "sp-fx-react-taxonomy-dropdown description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-fx-react-taxonomy-dropdown Feature",
+        "description": "The feature that activates elements of the sp-fx-react-taxonomy-dropdown solution.",
+        "id": "6c7237ee-e744-4ead-b25f-0e980d11fdd3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-react-taxonomy-dropdown.sppkg"
+  }
+}
